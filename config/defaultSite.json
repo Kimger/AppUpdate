@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "data": [
+    {
+      "name": "系统",
+      "url": "system"
+    },
+    {
+      "name": "北京时间",
+      "url": "time.ustc.edu.cn",
+      "ntp": true
+    },
+    {
+      "name": "淘宝",
+      "url": "https://api.m.taobao.com/rest/api3.do?api=mtop.common.getTimestamp"
+    },
+    {
+      "name": "京东",
+      "url": "https://api.m.jd.com/client.action?functionId=queryMaterialProducts&client=wh5"
+    },
+    {
+      "name": "拼多多",
+      "url": "https://www.pinduoduo.com/"
+    },
+    {
+      "name": "苏宁",
+      "url": "https://quan.suning.com/getSysTime.do"
+    },
+    {
+      "name": "小米商城",
+      "url": "https://www.mi.com/"
+    },
+    {
+      "name": "云闪付",
+      "url": "https://yunshanfu.unionpay.com/"
+    },
+    {
+      "name": "中信银行",
+      "url": "https://www.citicbank.com/"
+    },
+    {
+      "name": "OPPO商城",
+      "url": "https://www.opposhop.cn/cn/m/"
+    }
+  ]
+}
